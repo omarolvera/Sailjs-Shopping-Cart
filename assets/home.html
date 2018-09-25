@@ -1,0 +1,27 @@
+<div class="container " ng-controller="ProductCtrl as product">
+
+    <div class="row">
+
+        <div ng-repeat="item in products" class="col-12 col-md-6 col-xl-4 mb-4">
+            <div class="card ">
+
+                <img class="card-img-top" src="{{item.imagePath}}" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">{{item.name}} </h5>
+                    <p class="card-text">{{item.description}}</p>
+                    <div class="row">
+                        <div class="col-12 col-md-6">
+                            <b>Price:</b> <span>${{item.price}}</span>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-right">
+                                <a href="" ng-click="addToCart(item)" class="btn btn-success">Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
