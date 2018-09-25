@@ -1,0 +1,37 @@
+[
+{
+      "name": "MENS BETTER THAN NAKED JACKET",
+      "imagePath": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
+      "tag": "Men's",
+	  "description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "price": 100
+      
+      
+    },
+    {
+      "name": "WOMENS BETTER THAN NAKED JACKET",
+      "imagePath": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
+      "tag": "Women's",
+      "description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "price": 100
+      
+    },
+    {
+      "name": "WOMENS SINGLE-TRACK SHOE",
+      "imagePath": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
+      "tag": "Running Shoes",
+      "description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "price": 100
+      
+    },
+    {
+      "name": "Enduro Boa Hydration Pack",
+      "imagePath": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
+      "tag": "Equipment",
+	  "description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "price": 100
+    
+    }
+  
+	
+	]
